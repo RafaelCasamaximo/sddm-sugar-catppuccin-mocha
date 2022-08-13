@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Sugar CatPpuccin Mocha
+Description=The sweetest theme around; With the CatPpuccin!
+Author=Marian Arlt (Modified by Rafael Furlanetto)
+Copyright=Copyright (C) 2018 Marian Arlt
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/MarianArlt/sddm-sugar-dark and https://github.com/RafaelCasamaximo/sddm-sugar-catppuccin-mocha
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=marianarlt@icloud.com, rafael_furlanetto2014@hotmail.com
+Theme-Id=sugar-catppuccin
+Theme-API=2.11
